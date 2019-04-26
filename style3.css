@@ -1,0 +1,26 @@
+*{
+	margin:0;
+	padding: 10px;
+
+}
+
+form{
+	width:0px;
+}
+
+p{
+	font-size:15px;
+	font-style: bold;
+	font-family: "Arial";
+
+}
+
+::placeholder{
+	color:#1e1e1;
+}
+button{
+	font-family: arial;
+}
+button:hover{
+	color: red;
+}
